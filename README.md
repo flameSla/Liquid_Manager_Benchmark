@@ -1,4 +1,4 @@
-### Testing belt balancers
+### Liquid Manager Benchmark
 
 
 Mod for the game Factorio.
